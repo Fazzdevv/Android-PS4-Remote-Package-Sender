@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PS4 PKG Sender</string>
+    <string name="app_subtitle">Remote Package Installer for Android</string>
+    <string name="channel_name">PKG Transfer Service</string>
+    <string name="channel_description">Notification when transferring PKG files to PS4 is in progress</string>
+    <string name="notification_title">PS4 PKG Sender Active</string>
+    <string name="notification_content">Local HTTP server is serving PS4 download request</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ps_blue_primary">#00439C</color>
+    <color name="ps_blue_light">#0070D1</color>
+    <color name="ps_cyan_accent">#00D2FF</color>
+    <color name="ps_dark_background">#0E141D</color>
+    <color name="ps_dark_surface">#161F2C</color>
+    <color name="ps_dark_surface_variant">#222D3E</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="status_success">#00C853</color>
+    <color name="status_warning">#FFAB00</color>
+    <color name="status_error">#FF5252</color>
+</resources>

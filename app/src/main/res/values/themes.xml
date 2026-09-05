@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PS4PkgSender" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/ps_dark_background</item>
+        <item name="android:navigationBarColor">@color/ps_dark_background</item>
+        <item name="android:windowBackground">@color/ps_dark_background</item>
+    </style>
+</resources>
